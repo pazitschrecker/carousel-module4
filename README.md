@@ -17,4 +17,4 @@ To set up the servo motor, Connected the servo motor to the ESP32 by plugging th
 
 The Arduino sketch was uploaded from my laptop to the ESP32. Once uploaded, I unplugged the ESP32 from my laptop and powered it with a 9V battery.
 
-The ESP32 is connected to wifi via station mode. To run the project, I connected both the ESP32 and my laptop to a mobile hotspot set up on an iPhone. Change the "GUEST" wifi and corresponding "guest_pw" to the wifi network and password that you will connect to. Both the ESP32 and computer must be connected to the same network to send messages.
+The ESP32 is connected to wifi via station mode. To run the project, I connected both the ESP32 and the raspberry pu to a mobile hotspot set up on an iPhone. Change the "GUEST" wifi and corresponding "guest_pw" to the wifi network and password that you will connect to. Both the ESP32 and pi must be connected to the same network to send messages.
